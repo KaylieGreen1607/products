@@ -14,6 +14,8 @@ Every medicine pack includes a patient information leaflet (PIL), which provides
 
 PILs are based on the Summaries of Product Characteristics (SPCs) which are a description of a medicinal product’s properties and the conditions attached to its use.
 
+The information about a medicine will be updated when new evidence become available. This may mean that there are differences between the information in the pack and the information here.  The most up-to-date information will be available on this site.
+
 You can use the A-Z list to find an active substance, or search for a medicine.
 
 ## PARs
